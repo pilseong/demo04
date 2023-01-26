@@ -1,0 +1,4 @@
+###
+GET http://localhost:8080/demo
+# X-API-KEY: test
+Authorization: Basic user:9e41bf66-a373-4199-ad64-635be7b6966f
